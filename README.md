@@ -28,4 +28,8 @@ linked
 19     +
 21     +
 -----------------
+Palindrome
+680    +      double-pointer
+
+
 ```
